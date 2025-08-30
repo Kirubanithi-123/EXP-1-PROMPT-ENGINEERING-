@@ -31,7 +31,8 @@ Step 9: Detokenize tokens to get the final generated text.
 
 ## Output
 
-[exp no 01.pdf](https://github.com/user-attachments/files/22057093/exp.no.01.pdf)
+[exp no 01.pdf](https://github.com/user-attachments/files/22059398/exp.no.01.pdf)
+
 
 
 
